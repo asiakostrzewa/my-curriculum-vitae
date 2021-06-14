@@ -1,3 +1,2 @@
-# my-curriculum-vitae
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/my-curriculum-vitae)
+My CV application prepared by means of front-end technologies.
+It allows to download CV document.
